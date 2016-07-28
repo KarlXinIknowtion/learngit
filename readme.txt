@@ -7,13 +7,3 @@ Add a python py file.
 Revised from GitHub.
 Revised under KX branch.
 Revised by other user.
-Additional Add by KX.
-Changes by other guy under Dev.
-Add KX.
-Some Updates under GitHub.
-Add after someone updated Dev.
-Rebase.
-Rebase GitHub.
-To Dev.
-To Dev2.
-To Dev2 GH.
